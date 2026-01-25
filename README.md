@@ -21,7 +21,7 @@ I'm excited about Low-Level programming, Cybersecurity, Networking, and Web deve
 
 <hr>
 
-My favourite debugging strategy -> printf and lots of caffeine ☕
+My favourite debugging strategy -> printf and caffeine ☕
 
 Ask me about ASOIAF theories if you want to lose an afternoon
 
