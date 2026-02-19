@@ -5,7 +5,7 @@
 ### About me 🦅
 Student @ 42 London & Northcoders
 
-I'm excited about Low-Level programming, Cybersecurity, Networking, and Web development
+I'm excited about Data engineering, Low-Level programming, Cybersecurity, and Networking.
 
 <hr>
 
