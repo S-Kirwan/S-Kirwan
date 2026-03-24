@@ -3,9 +3,9 @@
 <hr>
 
 ### About me 🦅
-Student @ 42 London & Northcoders
+Student @ 42 & Northcoders
 
-I'm excited about Data engineering, Low-Level programming, Cybersecurity, and Networking.
+I'm excited about full stack development, data engineering, and low-Level programming
 
 <hr>
 
